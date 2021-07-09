@@ -1,0 +1,41 @@
+.todo__list {
+  text-align: center;
+  display: flex;
+  border-bottom: 1px solid black;
+}
+
+.buttonss {
+  display: flex;
+  margin-top: 1rem;
+}
+
+.butt {
+  background-color: beige;
+  margin-top: 0.2rem;
+  cursor: pointer;
+  max-width: 5rem;
+  height: rem;
+}
+.editbutt {
+  max-width: 5rem;
+  height: 2rem;
+  cursor: pointer;
+}
+
+.Modalmain {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.Updatebutt {
+  background-color: rgb(65, 170, 255) !important;
+  border: none !important;
+  color: white !important;
+  text-align: center !important;
+  text-decoration: none !important;
+  display: inline-block !important;
+  margin: 2rem 1px !important;
+  cursor: pointer !important;
+  border-radius: 8px !important;
+  padding-right: 2rem !important;
+}

@@ -1,0 +1,46 @@
+.App {
+  text-align: center;
+  background-color: lightgrey;
+  min-height: 100vh;
+}
+
+.App-header {
+  border-bottom: 1px solid black;
+  padding: 10px;
+  box-shadow: black;
+  background-image: linear-gradient(
+    to right top,
+    #d8d8d8,
+    #cbcadd,
+    #bcbde2,
+    #a9b0e8,
+    #91a5ee,
+    #77a4f0,
+    #53a4f1,
+    #00a3f0,
+    #00a9e3,
+    #00acd0,
+    #00aebb,
+    #21aea5
+  );
+  min-height: 15vh;
+  margin-top: 0em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+.InputBox {
+  display: flex;
+  justify-content: center !important;
+}
+
+span {
+  margin-left: 1rem;
+}
+
+ul {
+  display: inline-block;
+  width: 50vw;
+}
