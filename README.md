@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-The created web app can be previewed [at To-Do](https://todo-app-613d8.web.app)
+The created web app can be previewed at [To-Do](https://todo-app-613d8.web.app)
 
 ## Available Scripts
 
